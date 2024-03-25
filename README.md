@@ -1,5 +1,3 @@
-# peasapal
-
 # Pesapal PHP API Reference (Unofficial)
 
 [PesaPal](pesapal.com) provides a simple, safe and secure way for individuals
